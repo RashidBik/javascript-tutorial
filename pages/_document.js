@@ -11,7 +11,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           {/* <meta name="viewport" content="width=device-width,minimum-scale=1, initial-scale=1" /> */}
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6663512340777179"
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6663512340777179"
      crossorigin="anonymous"></script>
         </Head>
         <body>
